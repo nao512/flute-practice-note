@@ -1,13 +1,11 @@
 {
-  "name": "フルート練習ノート",
-  "short_name": "フルート練習",
-  "lang": "ja",
+  "name": "楽器練習ノート",
+  "short_name": "楽器練習ノート",
+  "description": "好きな楽器ごとに練習時間を記録するアプリ",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f3f8f7",
   "theme_color": "#0f9f8f",
-  "icons": [
-    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
-  ]
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
